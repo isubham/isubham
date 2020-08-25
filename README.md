@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello! I'm Subham.
 
-<!--
-**isubham/isubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eng Stuff @ Work:
 
-Here are some ideas to get you started:
+* Working as a software developer on [Javelin](https://www.zs.com/products/javelin) at [ZS Associates](https://www.zs.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Eng Stuff Not @ Work:
+
+* Clipsy  - social media for text 
+  * [Source Code](https://github.com/isubham/clipsy-android)
+  * [Play Store](https://github.com/isubham/clipsy-android)
+  
+* Breathe - Take breaks during work from home
+  * [Source Code](https://github.com/isubham/Breathe)
+  * [Play Store](https://play.google.com/store/apps/details?id=com.subham.breathe)
+
+
+Not @ Work:  - :book: - 🎶
+
+find me on [twitter](https://twitter.com/isubham3)
