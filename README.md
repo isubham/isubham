@@ -9,7 +9,7 @@ Eng Stuff Not @ Work:
 
 * Clipsy  - social media for text 
   * [Source Code](https://github.com/isubham/clipsy-android)
-  * [Play Store](https://github.com/isubham/clipsy-android)
+  * [Play Store](https://play.google.com/store/apps/details?id=com.subhamkumar.clipsy&hl=en_IN)
   
 * Breathe - Take breaks during work from home
   * [Source Code](https://github.com/isubham/Breathe)
@@ -18,4 +18,8 @@ Eng Stuff Not @ Work:
 
 Not @ Work:  - :book: - 🎶
 
-find me on [twitter](https://twitter.com/isubham3)
+find me on 
+* [Linkedin](https://www.linkedin.com/in/isubham/) 
+* [twitter](https://twitter.com/isubham3) 
+* [Facebook](https://www.facebook.com/subhawanshi/) 
+* [Instagram](https://www.instagram.com/subhawanshi/) 
