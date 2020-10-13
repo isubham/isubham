@@ -2,7 +2,9 @@ Hello! I'm Subham.
 
 Eng Stuff @ Work:
 
-* Working as a software developer on [Javelin](https://www.zs.com/products/javelin) at [ZS Associates](https://www.zs.com/)
+* Worked as a software developer on [Javelin](https://www.zs.com/products/javelin) at [ZS Associates](https://www.zs.com/) (June 2018 - Aug 2020)
+
+* Working as a backend developer at [Blue tokai Coffee Roaster](https://bluetokaicoffee.com/)
 
 
 Eng Stuff Not @ Work:
