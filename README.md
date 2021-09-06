@@ -23,5 +23,7 @@ Not @ Work:  - :book: - 🎶
 find me on 
 * [Linkedin](https://www.linkedin.com/in/isubham/) 
 * [twitter](https://twitter.com/isubham3) 
-* [Facebook](https://www.facebook.com/subhawanshi/) 
-* [Instagram](https://www.instagram.com/subhawanshi/) 
+
+For More 
+
+[My Github Page](https://isubham.github.io)
