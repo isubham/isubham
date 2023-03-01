@@ -1,11 +1,13 @@
 
 
-### Welcome to my coding corner! 👩🏻‍💻
+### Welcome to my coding corner! 
+🔟🔟🔟🔟🔟🔟🔟🔟🔟🔟🔟🔟🔟🔟
 
 I'm Subham - a Jharkhand-based Software Engineer.
 
 I'm currently working as a Senior Software enginner at Recro.
-Coding, music  are my main passions.
+
+Coding and music are my main passions.
 
 Coding Languages: Javascript (Node.js & React), Python and C#. 
 
