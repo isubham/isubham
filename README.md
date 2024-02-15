@@ -5,7 +5,7 @@
 
 I'm Subham - a Jharkhand-based Software Engineer.
 
-I'm currently working as a Senior Software enginner at Recro.
+I'm currently working as a Senior Software enginner at EPAM.
 
 Coding and music are my main passions.
 
